@@ -3,8 +3,7 @@
 Welcome to my GitHub profile! 🌟
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/michaelcharara)
-- [X](https://x.com/netdevmike)
+- [LinkedIn](https://www.linkedin.com/in/michael-charara/)
 - [Personal Website](https://www.netdevmike.com)
 
 ## Skills
