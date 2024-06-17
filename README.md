@@ -23,6 +23,3 @@ Welcome to my GitHub profile! 🌟
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,ansible,blender,netlify,vercel,vscode,figma,githubactions,gitlab,postman,unity&perline=5)
 
-
-
-
