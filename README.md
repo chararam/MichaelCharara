@@ -1,4 +1,4 @@
-# Hello, I am Michael Charara!
+# Hello, I am Michael Charara
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/michael-charara/)
